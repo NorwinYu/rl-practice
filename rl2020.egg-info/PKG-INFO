@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: rl2020
+Version: 0.1
+Summary: Reinforcement Learning in UoE (HW)
+Home-page: https://github.com/semitable/uoe-rl2020
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Provides-Extra: test
